@@ -2,7 +2,11 @@ body{
     background-color: blue;
 }
 h1{
-    font-size: 28px;
+    font-size: 38px;
     font-family: Calibri;
     color: red;
+}
+body div{
+    color: darkcyan;
+    font-size: 14px;
 }
